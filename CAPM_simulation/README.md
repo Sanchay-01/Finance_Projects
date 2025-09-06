@@ -80,8 +80,8 @@ We use **linear regression** against the S\&P 500 (`^SPX`) to compute:
 * **Beta (β)** → stock volatility relative to the market
 * **Alpha (α)** → excess return not explained by market movement
 
-📈 Example regression scatter plot:
-![Beta Regression](images/beta_regression.png)
+📈 Regression scatter plot for Robinhood as an example:
+![alt text](robinhood_regression.png)
 
 ---
 

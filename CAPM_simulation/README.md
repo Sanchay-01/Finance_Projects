@@ -104,9 +104,6 @@ Where:
 
 We construct an **equally weighted portfolio** of 12 stocks and calculate expected portfolio return.
 
-📊 Example output chart:
-![Portfolio Expected Return](images/portfolio_return.png)
-
 ---
 
 ## 🚀 Future Work

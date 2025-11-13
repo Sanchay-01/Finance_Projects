@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🏈 NFL Betting Model
 
 This project is a machine learning model developed in **`fml.ipynb`** to predict the outcomes of NFL games. The model uses historical game data, betting spreads, and Elo ratings to train a classifier.  
@@ -11,17 +10,14 @@ The primary goal is to build a model that outperforms baseline Elo predictions a
 
 ## 📁 File Structure
 
-```
 
-.
-├── fml.ipynb                  # Main Jupyter Notebook with all data analysis and model training
-├── NFLMoneyLine_model1.pkl    # Pre-trained model saved after running the notebook
-├── spreadspoke_scores.csv     # Required data: Historical NFL scores and betting lines
-├── nfl_teams.csv              # Required data: Team information and metadata
-├── nfl_elo.csv                # Required data: Historical Elo ratings
-└── README.md                  # This file
+- `fml.ipynb` — Main Jupyter Notebook with all data analysis and model training  
+- `NFLMoneyLine_model1.pkl` — Pre-trained model saved after running the notebook  
+- `spreadspoke_scores.csv` — Historical NFL scores and betting lines  
+- `nfl_teams.csv` — Team information and metadata  
+- `nfl_elo.csv` — Historical Elo ratings  
+- `README.md` — This file
 
-````
 
 ---
 

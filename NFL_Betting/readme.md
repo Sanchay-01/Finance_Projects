@@ -39,7 +39,7 @@ Follow these steps to set up and run the project on your local machine.
    ```bash
    git clone [your-repository-url]
    cd [your-repository-name]
-````
+```
 
 2. **Create a `requirements.txt` file** with the following content:
 
